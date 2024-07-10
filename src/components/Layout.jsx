@@ -113,11 +113,11 @@ const Layout = ({children})=>{
                     <div>
                         <h1 className="text-white font-semibold text-2xl mb-3">Follow us</h1>
                         <ul className="space-y-2 text-slate-50">
-                            <li><i class="ri-facebook-circle-fill"></i><Link to="/" className="hover:underline ml-1">Facebook</Link></li>
-                            <li><i class="ri-youtube-fill"></i><Link to="/" className="hover:underline ml-1">Youtube</Link></li>
-                            <li><i class="ri-twitter-fill"></i><Link to="/" className="hover:underline ml-1">Twitter</Link></li>
-                            <li><i class="ri-linkedin-box-fill"></i><Link to="/" className="hover:underline ml-1">Linkedin</Link></li>
-                            <li><i class="ri-instagram-fill"></i><Link to="/" className="hover:underline ml-1">Instagram</Link></li>
+                            <li><i className="ri-facebook-circle-fill"></i><Link to="/" className="hover:underline ml-1">Facebook</Link></li>
+                            <li><i className="ri-youtube-fill"></i><Link to="/" className="hover:underline ml-1">Youtube</Link></li>
+                            <li><i className="ri-twitter-fill"></i><Link to="/" className="hover:underline ml-1">Twitter</Link></li>
+                            <li><i className="ri-linkedin-box-fill"></i><Link to="/" className="hover:underline ml-1">Linkedin</Link></li>
+                            <li><i className="ri-instagram-fill"></i><Link to="/" className="hover:underline ml-1">Instagram</Link></li>
                         </ul>
                     </div>
                     <div className="pr-9">
